@@ -64,4 +64,5 @@
 <br><br><br><br><br>
 
 ## Service Architecture
-![bolmal](https://github.com/user-attachments/assets/a61db51b-c920-45c2-8cc3-30dbe5a2ca94)
+![momogum drawio](https://github.com/user-attachments/assets/7712ebc1-c906-4ba0-b167-6b11be983b60)
+
